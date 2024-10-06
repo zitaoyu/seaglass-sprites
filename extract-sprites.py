@@ -78,8 +78,8 @@ if __name__ == "__main__":
     end_index = 3379
 
     # customize
-    sprite_id = 404
-    start_index = 3221
+    sprite_id = 448
+    start_index = 3355
 
     # # Create directories if they don't exist
     # for folder in [back_folder_path, back_shiny_folder_path, front_folder_path, front_shiny_folder_path]:
