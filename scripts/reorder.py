@@ -77,5 +77,5 @@ def reorder_files(target_directory):
 
 
 # Example usage
-folder_path = '/Users/tommyyu/Desktop/projects/seaglass-sprites/sprites/front_new'
+folder_path = '/Users/tommyyu/Desktop/projects/seaglass-sprites/sprites/front_shiny'
 reorder_files(folder_path)
